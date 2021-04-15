@@ -1,0 +1,56 @@
+Answers for the Task 01 :
+
+
+1. Difference between HTTP1.1 vs HTTP2 ?
+
+    Answer: * HTTP1.1 is slower in loading , where HTTP2 is faster in loading.
+            * HTTP2 is Binary ,where HTTP1.1 is textual.
+            * HTTP2 is secured by default.
+            * HTTP2 allows server to push response where HTTP 1.1 does not.
+            
+                        ---------******----------
+
+2. HTTP version history ?
+    
+   Answer :  HTTP was initiated by Tim Berner Lee
+             HTTP has four versions 
+             (1) HTTP 0.9 in the year 1991
+             (2) HTTP 1.0 in the year 1996
+             (3) HTTP 1.1 in the year 1997
+             (4) HTTP 2.0 in the year 2015
+ 
+                            -------****--------  
+
+3.  List 5 difference between Broswser JS (console) vs Node JS
+
+    Answer:  * Javascript is a programing language used for 
+                writing scripts on the website where as nodeJs is a javascript runtime environment.
+              
+             * Javascript can only run in the browser where as nodeJs can be run outside the                browser. 
+ 
+             * Js is used in client side where as nodeJs is used in server side.
+ 
+             * Js run in any browser where as nodeJs run only in V8 engine .
+
+             * Js is used in frontend development where as nodeJs used in server side development .
+
+                          --------****---------
+
+
+4. What happens when you type a URL in the address bar in the browser?
+
+   Answer: URL stands for Uniform Resource Locator.
+           It is the address of the website .
+
+           if we type URL in the address bar the following steps will happen:
+
+
+          * Browser checks cache for DNS  entry to find the corresponding IP adress of website.
+          * If not found in cache DNS server initiate a query to find IP address of the server that              host the domain name.
+          * Browser initiate TCP connection with synchronize and acknowldege message.
+          * Server send back a response to it. 
+          * then the status of the response and browser display HTML content and finally done.
+
+                   --------------********----------
+
+      
