@@ -1,0 +1,17 @@
+                         ------Task 02 Answers------
+
+
+2. Give a write up on difference between copy by value and copy by reference ?
+
+Answer:  * Copy by value is a Primitive datatype where as copy by refrence is not a primitive data              type.
+    
+         * Compare to Copy by Value copy by reference is more effective in programing language.
+  
+         * Copy by refference has one Pointer where as Copy by Value does not.
+
+
+                    ----------******-----------
+
+3.How to copy by value a composite datatype (array + object)?
+
+Answer:  Arrays, objects, functions are all of object type which comes under composite data types.          As we know variable holds data in case of composite data type it holds reference that is          address of that particular value in memory.Therefore we can’t clone data in composite data          types.
